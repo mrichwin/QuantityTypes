@@ -30,6 +30,8 @@ Area,Hectare,ha,1e4
 Area,SquareFoot,ft^2,9.290304e-2
 Area,SquareMile,mi^2,2.589988110336e6
 Area,SquareKilometre,km^2,1e6
+Area,SquareCentimetre,cm^2,1e-4
+Area,SquareMillimetre,mm^2,1e-6
 
 // Volume
 Volume,CubicMetre,m^3,1
